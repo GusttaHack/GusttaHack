@@ -17,14 +17,14 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 
 - 👨🏽‍💻 I’m currently studyng on IFBaiano;
-- 🌱 I’m currently learning Pyhon, JavaScript, HTML, CSS, PHP; 
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🌱 I’m currently learning Pyhon, JavaScript, HTML, CSS, PHP;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: gusttaoliver357@gmail.com;
 
 **Languages and Tools:** 
 
 <p>
+  <br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
