@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Ola!, Eu sou Gustavo Oliveira, Um desenvolvedor brasileiro.
+## Olá! Sou Gustavo Oliveira, um desenvolvedor brasileiro.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
