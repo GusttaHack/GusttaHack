@@ -10,16 +10,12 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](gusttaoliver357@gmail.com)
 
 &nbsp;
-
-<!-- Talking about you -->
 **Falando sobre mim:**
 
-<!-- Any image aligned to the right. Beware the width -->
-
-- 👨🏽‍💻 Atualmente estou estudando no IFBaiano;
-- 🌱 Estou apredendo Pyhon, JavaScript, HTML, CSS e PHP;
-- 💬 Me pergunte qualquer coisa, ficarei feliz em ajudar;
-- 📫 Contate-me: gusttaoliver357@gmail.com;
+- 👨🏽‍💻 Atualmente estou estudando no IFBaiano
+- 🌱 Estou apredendo Pyhon, JavaScript, HTML, CSS e PHP
+- 💬 Me pergunte qualquer coisa, ficarei feliz em ajudar
+- 📫 Contate-me: gusttaoliver357@gmail.com
 
 **Linguagens e ferramentas:** 
 
