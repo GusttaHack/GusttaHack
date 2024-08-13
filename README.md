@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 **Falando sobre mim:**
 
 - 👨🏽‍💻 Atualmente estou estudando no IFBaiano
-- 🌱 Estou apredendo Pyhon, JavaScript, HTML, CSS e PHP
+- 🌱 Estou apredendo MySql, JavaScript, HTML, CSS e PHP
 - 💬 Me pergunte qualquer coisa, ficarei feliz em ajudar
 - 📫 Contate-me: gusttaoliver357@gmail.com
 
